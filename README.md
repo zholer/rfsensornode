@@ -10,7 +10,7 @@ Attiny45/85
 Software:
 avrdude
 
-Hardware setup:
+Hardware setup: TODO
 
 
 Install:
