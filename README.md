@@ -17,5 +17,7 @@ Install:
 make
 make install
 
+Credit: Putting arduino to sleep, adapted from http://letsmakerobots.com/blog/project2501/notes-putting-arduino-sleep
+
 
 
